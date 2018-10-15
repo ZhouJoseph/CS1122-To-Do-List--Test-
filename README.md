@@ -5,7 +5,7 @@
 ## Web development project for Introduction to CS at NYU Tandon
 - This project is an online to-do list application using HTML, CSS, and Javascript for the front end interface and Flask, PyMySQL and MySQL for backend development. The application is hosted on a server using Amazon web services as well as NGINX and Gunicorn.
 ## Web URL 
-- http://ec2-18-222-54-217.us-east-2.compute.amazonaws.com/
+- (Stop Already)http://ec2-18-222-54-217.us-east-2.compute.amazonaws.com/
 ## How to run the project
 - Use the public key to sign in the EC2 Ubuntu server, and go to the project1 directory (all the files, as well as keypem are in the directory). We already use the command: gunicorn app:app& to let the server run "forever".
 ## Group members:
